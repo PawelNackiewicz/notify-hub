@@ -1,4 +1,4 @@
-package config
+package pl.beaution.notifyhub.config
 
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
